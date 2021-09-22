@@ -5,3 +5,5 @@ This is the image repository application using express for the backend server to
 I used Cloudinary as a image hosting container to store and retrieve the images
 
 You can look through the backend and frontend folders for more specifics of what happens inside the application
+
+Check out the application on Heroku for a live demo: https://afternoon-citadel-36468.herokuapp.com/
